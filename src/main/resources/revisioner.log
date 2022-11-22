@@ -1,0 +1,66 @@
+HOST : localhost
+TRANSPORT_PORT : 9443
+CLIENT_KEY : WdKva7s4QxZtJMmViz4HrRprKDEa
+CLIENT_SECRET : WvClbk23ojG3MEfPwJ9r_HgewMsa
+SANDBOX_ENDPOINT : https://udemy.com
+PRODUCTION_ENDPOINT : https://udemy.sg
+USERNAME : admin
+PASSWORD : admin
+API_LIMIT : 250
+ACCESS TOKEN : 85079284-db91-3552-bdc2-2e7709c27df1
+*************************************************************
+WebSocket API is identified : 7b2cf1af-650d-4373-b9d7-f4514da9ddb0. Hence, skipping updating the endpoints of the API
+Identified the API : c401f504-3ae0-47db-adc3-6d9ff661a932 is DEPRECATED
+Identified the API : 180c5d61-fb31-4bef-8e2d-26c2d37003e5 is RETIRED
+*************************************************************
+Total Number of APIs to be changed : 9
+*************************************************************
+Sandbox and production endpoints are being changed for the API : 44bb948a-baf6-4a93-8c63-72aabe3e6a4f
+Update API Operation Status : true
+Revision selected to delete : 2560b0d8-80dd-41ba-aadf-38e6a28b285d
+Delete Revision Operation Status : true
+Newly created revision Id : 75363911-d3a6-496d-bb48-fe48f921a53c
+Deploying the Revision : 75363911-d3a6-496d-bb48-fe48f921a53c is success.
+*************************************************************
+Sandbox and production endpoints are being changed for the API : a985b297-ff98-48b7-b8a5-b0feb42d9ebf
+Update API Operation Status : true
+Revision selected to delete : e3d7ac64-c546-44ec-88f7-131fafdac6b0
+Delete Revision Operation Status : true
+Newly created revision Id : f44100d0-7d94-4db9-a393-04b61bbb669f
+Deploying the Revision : f44100d0-7d94-4db9-a393-04b61bbb669f is success.
+*************************************************************
+Sandbox and production endpoints are being changed for the API : 556d17e4-c5b6-40b5-927f-2e9f6a35c314
+Both Production and Sandbox endpoints are null for the API : 556d17e4-c5b6-40b5-927f-2e9f6a35c314
+Skipping updating the endpoints of the API : 556d17e4-c5b6-40b5-927f-2e9f6a35c314
+*************************************************************
+Sandbox and production endpoints are being changed for the API : f17b98a5-7bb4-4216-8153-fc0e827a029d
+Update API Operation Status : true
+Revision selected to delete : 81b13004-cd0b-4c61-99b8-fe0da8f19205
+Delete Revision Operation Status : true
+Newly created revision Id : e207c942-e358-4732-9eae-49a5db5e667a
+Deploying the Revision : e207c942-e358-4732-9eae-49a5db5e667a is success.
+*************************************************************
+Sandbox and production endpoints are being changed for the API : bc63e326-10d6-4ea6-adab-b5f985ed7505
+Sandbox endpoint is null for the API : bc63e326-10d6-4ea6-adab-b5f985ed7505
+Skipping updating the endpoints of the API : bc63e326-10d6-4ea6-adab-b5f985ed7505
+*************************************************************
+Sandbox and production endpoints are being changed for the API : e7874033-37ad-4acc-8b20-f5acb83bb952
+Skipping updating the endpoints of the API : e7874033-37ad-4acc-8b20-f5acb83bb952
+*************************************************************
+Sandbox and production endpoints are being changed for the API : 6b137620-13d4-40ad-8d6b-0a554420fa45
+Skipping updating the endpoints of the API : 6b137620-13d4-40ad-8d6b-0a554420fa45
+*************************************************************
+Sandbox and production endpoints are being changed for the API : 25703260-9b0c-49ca-b637-f7d8ad79d831
+Update API Operation Status : true
+Revision selected to delete : 0c028f8d-535d-4eb0-91a3-829f12811975
+Delete Revision Operation Status : true
+Newly created revision Id : 0cb9a519-b8a8-4c0f-9492-a48b2478eddc
+Deploying the Revision : 0cb9a519-b8a8-4c0f-9492-a48b2478eddc is success.
+*************************************************************
+Sandbox and production endpoints are being changed for the API : 8d195077-646a-45ee-920a-343dad9c0bb5
+Update API Operation Status : true
+Revision selected to delete : 5d264937-604a-464d-a71c-c3952f905595
+Delete Revision Operation Status : true
+Newly created revision Id : 47658925-8dd0-4735-acbd-ccb137eb21b8
+Deploying the Revision : 47658925-8dd0-4735-acbd-ccb137eb21b8 is success.
+*************************************************************
