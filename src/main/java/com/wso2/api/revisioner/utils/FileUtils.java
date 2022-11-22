@@ -19,10 +19,10 @@ import java.util.logging.FileHandler;
  */
 public class FileUtils {
 
-//    public static final String CONF_FILE_NAME = "./resources/integration.properties";
-//    public static final String LOG_FILE_NAME = "./resources/revisioner.log";
-    public static final String CONF_FILE_NAME = "/Users/abhishek/Documents/workspace/ocbc-eng/wso2-api-revisioner/src/main/resources/integration.properties";
-    public static final String LOG_FILE_NAME = "/Users/abhishek/Documents/workspace/ocbc-eng/wso2-api-revisioner/src/main/resources/revisioner.log";
+    public static final String CONF_FILE_NAME = "./resources/integration.properties";
+    public static final String LOG_FILE_NAME = "./resources/revisioner.log";
+//    public static final String CONF_FILE_NAME = "/Users/abhishek/Documents/workspace/ocbc-eng/wso2-api-revisioner/src/main/resources/integration.properties";
+//    public static final String LOG_FILE_NAME = "/Users/abhishek/Documents/workspace/ocbc-eng/wso2-api-revisioner/src/main/resources/revisioner.log";
     private static Logger log = LoggerFactory.getLogger(FileUtils.class);
 
 
